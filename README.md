@@ -23,10 +23,11 @@
 <a href="https://stackoverflow.com/users/21507171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21507171" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedbehlul&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbehlul" /> </p>
+
 
 <br/>  
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedbehlul&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbehlul" /> </p>
 
 ## Github Stats  
 <details>
