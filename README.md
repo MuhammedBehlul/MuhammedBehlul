@@ -21,14 +21,24 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammedbehlul&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedbehlul" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedbehlul&show_icons=true&locale=en&layout=compact" alt="muhammedbehlul" /></p>
+
+<br/>  
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedbehlul&show_icons=true&locale=en" alt="muhammedbehlul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedbehlul&" alt="muhammedbehlul" /></p>
+## Github Stats  
+<details>
+<div align="center">
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammedBehlul&show_icons=true&count_private=true&hide_border=true" align="left" />
+</p>
+</div>
+<div align="center">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedBehlul&hide_border=true&layout=compact" align="center" />
+</p>
+</div>
+</details>
+</div>  
+<br/>  
 
 
 
