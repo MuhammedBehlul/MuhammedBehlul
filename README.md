@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/muhammed-behlül-şimşek-280407206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-behlül-şimşek-280407206" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21507171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21507171" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammed-behlül-şimşek-280407206" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-behlül-şimşek-280407206" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21507171" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21507171" height="30" width="40" /></a>
 </p>
 
 
