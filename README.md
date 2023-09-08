@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python , java , javascript**
 
-- 💬 Ask me about **Python , java**
+- 💬 Ask me about **Python , java and javascript**
 
 - 📫 How to reach me **mubsimsek@gmail.com**
 
