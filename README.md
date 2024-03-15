@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/MuhammedBehlul/MuhammedBehlul/assets/131232831/546d48b9-69a2-45bc-8f20-6aa4ae48a580" align="center" style="width: 15%" /> </div>
+<div align="center"> <img src="https://github.com/MuhammedBehlul/MuhammedBehlul/assets/131232831/2471ffb9-6c6f-4d5a-8053-c01460f3cc2d" align="center" width="50%" /> </div>
 <h1 align="center">Hi 👋, I'm Muhammed Behlül Şimşek</h1>
 <h3 align="center">I am a student at İstanbul Bilgi University</h3>
 
@@ -42,7 +42,3 @@
 </details>
 </div>  
 <br/>  
-
-
-
-
