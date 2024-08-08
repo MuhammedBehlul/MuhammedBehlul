@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Python , java , javascript**
+- 🌱 I’m currently learning  javascript** , React , NodeJS.
 
 - 💬 Ask me about **Python , java and javascript**
 
