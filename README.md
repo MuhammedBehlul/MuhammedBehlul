@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Behlül Şimşek</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Javascript, React, NodeJS.**
+- 🌱 I’m currently working with **Javascript, React, NodeJS.**
 
 - 💬 Ask me about **Python, Java, and JavaScript**
 
